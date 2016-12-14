@@ -1,6 +1,10 @@
 """
 hygrometry module.
 
+To install:
+
+`pip install -e git+https://github.com/bluthen/hygrometry.git@1.0.0`
+
 Sources and Citations:
 
 .. [BriceHalls] Tim Brice, Todd Halls. Javascript wet bulb calculator. http://www.srh.noaa.gov/epz/?n=wxcalc_rh
