@@ -3,7 +3,7 @@ hygrometry module.
 
 To install:
 
-`pip install -e git+https://github.com/bluthen/hygrometry.git@1.0.0`
+`pip install git+https://github.com/bluthen/hygrometry.git`
 
 Sources and Citations:
 
